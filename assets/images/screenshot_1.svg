@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2200" viewBox="0 0 1200 2200">
+  <rect width="1200" height="2200" fill="#F3F6FF"/>
+  <rect x="80" y="80" width="1040" height="2060" rx="32" fill="white"/>
+  <rect x="120" y="120" width="1040" height="120" rx="20" fill="#5B7CFA"/>
+  <text x="180" y="195" font-size="56" font-family="Arial" fill="white" font-weight="bold">Budget Buddy</text>
+  <rect x="160" y="330" width="880" height="150" rx="28" fill="#EEF3FF"/>
+  <text x="210" y="420" font-size="44" font-family="Arial" fill="#243b5a">Monthly spend</text>
+  <text x="770" y="420" font-size="54" font-family="Arial" fill="#243b5a" font-weight="bold">£1,240.50</text>
+  <rect x="160" y="560" width="880" height="290" rx="28" fill="#FFFFFF" stroke="#DDE7FF" stroke-width="4"/>
+  <text x="210" y="630" font-size="28" font-family="Arial" fill="#5B7CFA">Groceries</text>
+  <text x="845" y="630" font-size="28" font-family="Arial" fill="#243b5a" font-weight="bold">£58.20</text>
+  <line x1="210" y1="690" x2="990" y2="690" stroke="#E3EAFD" stroke-width="3"/>
+  <text x="210" y="770" font-size="28" font-family="Arial" fill="#5B7CFA">Transport</text>
+  <text x="845" y="770" font-size="28" font-family="Arial" fill="#243b5a" font-weight="bold">£34.80</text>
+  <line x1="210" y1="830" x2="990" y2="830" stroke="#E3EAFD" stroke-width="3"/>
+  <text x="210" y="910" font-size="28" font-family="Arial" fill="#5B7CFA">Rent</text>
+  <text x="845" y="910" font-size="28" font-family="Arial" fill="#243b5a" font-weight="bold">£780.00</text>
+  <circle cx="1000" cy="1830" r="70" fill="#5B7CFA"/>
+  <path d="M1000 1760 v140 M930 1830 h140" stroke="white" stroke-width="18" stroke-linecap="round"/>
+</svg>

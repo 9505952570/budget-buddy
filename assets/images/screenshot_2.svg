@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="2200" viewBox="0 0 1200 2200">
+  <rect width="1200" height="2200" fill="#F5F7FF"/>
+  <rect x="80" y="80" width="1040" height="2060" rx="32" fill="white"/>
+  <rect x="120" y="120" width="1040" height="120" rx="20" fill="#5B7CFA"/>
+  <text x="180" y="195" font-size="56" font-family="Arial" fill="white" font-weight="bold">Expense details</text>
+  <rect x="170" y="330" width="860" height="220" rx="24" fill="#EEF3FF"/>
+  <text x="220" y="405" font-size="40" font-family="Arial" fill="#243b5a" font-weight="bold">Groceries</text>
+  <text x="220" y="470" font-size="30" font-family="Arial" fill="#5B7CFA">Food • 14 Sep 2026</text>
+  <text x="910" y="455" font-size="52" font-family="Arial" fill="#243b5a" font-weight="bold">£58.20</text>
+  <rect x="170" y="620" width="860" height="170" rx="24" fill="#FFFFFF" stroke="#DDE7FF" stroke-width="4"/>
+  <text x="220" y="720" font-size="28" font-family="Arial" fill="#243b5a">Notes</text>
+  <text x="220" y="770" font-size="24" font-family="Arial" fill="#61728f">Fresh vegetables, rice, eggs and coffee beans.</text>
+  <rect x="170" y="880" width="400" height="160" rx="24" fill="#F3F7FF"/>
+  <text x="220" y="960" font-size="28" font-family="Arial" fill="#5B7CFA">Category</text>
+  <text x="220" y="1010" font-size="36" font-family="Arial" fill="#243b5a" font-weight="bold">Food</text>
+  <rect x="630" y="880" width="400" height="160" rx="24" fill="#F3F7FF"/>
+  <text x="680" y="960" font-size="28" font-family="Arial" fill="#5B7CFA">Amount</text>
+  <text x="680" y="1010" font-size="36" font-family="Arial" fill="#243b5a" font-weight="bold">£58.20</text>
+  <rect x="170" y="1100" width="860" height="180" rx="24" fill="#FFFFFF" stroke="#DDE7FF" stroke-width="4"/>
+  <text x="220" y="1185" font-size="28" font-family="Arial" fill="#243b5a">Date</text>
+  <text x="220" y="1235" font-size="32" font-family="Arial" fill="#243b5a" font-weight="bold">14 Sep 2026</text>
+</svg>
